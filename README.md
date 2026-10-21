@@ -1,4 +1,6 @@
-## Hi there 👋
+## University of Wisconsin-Eau Claire Student Association for Computing Machinery
+
+SACM is UW-Eau Claire's chapter of the Association for Computing Machinery, providing educational and social events beyond the Computer Science curriculum for students interested in computing topics.
 
 <!--
 **uwecsacmdemo/uwecsacmdemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
